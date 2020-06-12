@@ -1,0 +1,1 @@
+In each tick, the game engine will call "get new command" for once,

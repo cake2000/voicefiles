@@ -1,0 +1,1 @@
+If the array is empty, the first element is undefined and won't have a "height" property.

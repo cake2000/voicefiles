@@ -1,0 +1,1 @@
+so we would only attack the target on the left if "is Path blocked" returns false.

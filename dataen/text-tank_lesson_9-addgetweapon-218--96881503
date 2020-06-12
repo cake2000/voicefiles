@@ -1,0 +1,1 @@
+First, in the getWeapon function, please check if the Weapons array is empty,

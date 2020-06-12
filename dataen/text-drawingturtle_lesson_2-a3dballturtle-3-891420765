@@ -1,0 +1,1 @@
+Each circle is drawn using a child repeat loop that draws 36 edges at 10-degree turns.

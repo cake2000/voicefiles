@@ -1,0 +1,1 @@
+To check for blockage, we can use the "Maze" array to check the type of tiles around our tank.

@@ -1,0 +1,1 @@
+If n is greater than 1, we first move the top (n minus 1) disks from "start" to "offset" through "end". 

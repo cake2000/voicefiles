@@ -1,0 +1,1 @@
+First, we can reuse the "find nearest player" block to get the index of the nearest player.

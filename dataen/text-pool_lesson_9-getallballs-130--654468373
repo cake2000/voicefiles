@@ -1,0 +1,1 @@
+It starts at 2 because we want to skip the cue ball (ID 0), and the black ball (ID 1).

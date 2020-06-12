@@ -1,0 +1,1 @@
+First, for the getCommand function, we need to pass in a third parameter "s".

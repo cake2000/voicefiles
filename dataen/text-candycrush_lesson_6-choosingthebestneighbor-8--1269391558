@@ -1,0 +1,1 @@
+Next, we only check the upper neighbor if the row number r is more than 1.

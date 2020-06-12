@@ -1,0 +1,1 @@
+so we only need to check an empty slot if its index is more than 9.

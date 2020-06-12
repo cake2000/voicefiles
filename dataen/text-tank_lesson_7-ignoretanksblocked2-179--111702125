@@ -1,0 +1,1 @@
+If that tile is a rock tile, we will return true, reporting this path as blocked.

@@ -1,0 +1,1 @@
+It's reusing the "getLegal Ball IDs" function instead of implementing it again.

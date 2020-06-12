@@ -1,0 +1,1 @@
+Note that length is a property, not a function, so you don't need to write parentheses after "length".

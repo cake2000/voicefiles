@@ -1,0 +1,1 @@
+"i + 1" would simply take i's value and add 1 to it, but would not reassign that value back to i.

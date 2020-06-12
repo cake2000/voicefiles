@@ -1,0 +1,1 @@
+choice 'A' is true, since 7 > 4 is true, so at least one side of or is true.

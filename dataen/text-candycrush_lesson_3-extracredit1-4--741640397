@@ -1,0 +1,1 @@
+skip all the blocks if we have already found a match that's worth at least 160 points.

@@ -1,0 +1,1 @@
+choice 'A' is true since it is equivalent to "false or true", which is true.

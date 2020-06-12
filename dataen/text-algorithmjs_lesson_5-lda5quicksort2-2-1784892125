@@ -1,0 +1,1 @@
+When n is greater than 1, we use the last element as the pivot and partition the given array. 

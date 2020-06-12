@@ -1,0 +1,1 @@
+First, we have refactored the old get kick shot function into a more generic function "get kick shot commandVertical",

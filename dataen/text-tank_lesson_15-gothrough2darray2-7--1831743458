@@ -1,0 +1,1 @@
+The variable i will go from 0 to Maze dot length minus 1, since Maze dot length is the number of rows in it.

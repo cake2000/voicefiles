@@ -1,0 +1,1 @@
+For a hint, we should only check swapping right if c < 9.

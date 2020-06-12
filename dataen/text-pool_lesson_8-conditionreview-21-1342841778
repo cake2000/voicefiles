@@ -1,0 +1,1 @@
+Note that the "else" block can be omitted if there is nothing to do when the condition is false.

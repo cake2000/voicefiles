@@ -1,0 +1,1 @@
+The first optimization we can make is to skip a target ball if it's blocked from the cue ball.

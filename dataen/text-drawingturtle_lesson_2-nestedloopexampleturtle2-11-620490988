@@ -1,0 +1,1 @@
+The "edge length" needs to be initialized to 20 before the parent loop.

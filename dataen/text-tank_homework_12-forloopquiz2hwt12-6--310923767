@@ -1,0 +1,1 @@
+When j is 20, it fails the keep-going test of j  greater than or equal to 25, so 20 should not be included.

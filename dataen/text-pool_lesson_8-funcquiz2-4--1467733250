@@ -1,0 +1,1 @@
+choice 'A' should not use the keyword "function" for execution.

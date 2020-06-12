@@ -1,0 +1,1 @@
+I see. We are just reusing the variable i and keep changing it in-place, one step at a time.

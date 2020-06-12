@@ -1,0 +1,1 @@
+As a rule of thumb, you should use const instead of varr whenever possible.

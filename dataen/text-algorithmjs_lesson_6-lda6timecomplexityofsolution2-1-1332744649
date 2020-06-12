@@ -1,0 +1,1 @@
+Since the time complexity of the binary search on each row is O(log N), 

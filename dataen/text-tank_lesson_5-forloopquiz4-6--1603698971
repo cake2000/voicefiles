@@ -1,0 +1,1 @@
+Choice C is not updating the variable j correctly, so it runs into an infinite loop.

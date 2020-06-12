@@ -1,0 +1,1 @@
+choice 'A' should use semicolons between control statements, not commas.

@@ -1,0 +1,1 @@
+It will return "True" if the path is blocked by any ball, and "False" otherwise.

@@ -1,0 +1,1 @@
+When j is 80, it fails the keep-going test of j  less than or equal to 40, 

@@ -1,0 +1,1 @@
+Note that behind the scenes, all the variables and numbers are converted to strings first.

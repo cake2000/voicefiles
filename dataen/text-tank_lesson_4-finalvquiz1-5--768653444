@@ -1,0 +1,1 @@
+so only the else block is executed, which sets n to 7.

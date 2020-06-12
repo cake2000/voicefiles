@@ -1,0 +1,1 @@
+Secondly, you need to enclose the logic for direct shots inside an "if" block,

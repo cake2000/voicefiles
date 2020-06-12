@@ -1,0 +1,1 @@
+For a hint, we only need to update "x diff" if its absolute value is greater than 240.

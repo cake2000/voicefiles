@@ -1,0 +1,1 @@
+Now every time we update "i", we'll run through all the values for "j" before we update "i" again

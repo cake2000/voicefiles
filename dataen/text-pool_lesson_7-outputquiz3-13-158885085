@@ -1,0 +1,1 @@
+For choice D, it would miss the last number of 20, since 20 will fail the test of < 20.

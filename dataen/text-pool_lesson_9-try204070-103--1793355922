@@ -1,0 +1,1 @@
+Secondly, instead of s, the inner forloop should use a new variable "j",

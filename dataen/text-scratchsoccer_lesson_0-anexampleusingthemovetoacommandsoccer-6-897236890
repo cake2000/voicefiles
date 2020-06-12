@@ -1,0 +1,1 @@
+it will send the "ready" message, which will trigger its AI controller to send a new moving command.

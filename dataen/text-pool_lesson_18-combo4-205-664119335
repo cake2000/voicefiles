@@ -1,0 +1,1 @@
+we already return the direct shot command if probability is over 70% or strength is < 40,

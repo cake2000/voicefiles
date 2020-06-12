@@ -1,0 +1,1 @@
+After that, in the getCallShot function, set the value of strength to be "getDouble(20)".

@@ -1,0 +1,1 @@
+we should not return a placement point if its x or y coordinates are over these limits.

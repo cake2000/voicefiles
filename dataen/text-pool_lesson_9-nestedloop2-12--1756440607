@@ -1,0 +1,1 @@
+The reason is that for episode 1, its name is located at index of 0 in the array.

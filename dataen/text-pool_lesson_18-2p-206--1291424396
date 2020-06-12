@@ -1,0 +1,1 @@
+This way, we can control whether to skip the indirect shots when we call "getCallShotCommand".

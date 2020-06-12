@@ -1,0 +1,1 @@
+Inside the inner loop, you need to check whether the two adjacent elements are in the wrong order. 

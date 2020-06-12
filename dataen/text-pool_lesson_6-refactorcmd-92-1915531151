@@ -1,0 +1,1 @@
+Note that you need to write "await" before the function name "getCommand" when calling it, 

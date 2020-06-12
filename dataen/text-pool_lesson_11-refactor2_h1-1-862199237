@@ -1,0 +1,1 @@
+After the refactoring, you should use "const" 8 times, and "let" 2 times.

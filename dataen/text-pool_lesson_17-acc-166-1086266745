@@ -1,0 +1,1 @@
+If the target ball is blocked, we should not check the direct shot or the bank shots.

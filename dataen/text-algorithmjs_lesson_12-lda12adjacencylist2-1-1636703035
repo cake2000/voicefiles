@@ -1,0 +1,1 @@
+For weighted graphs, we can use an object rather than an array to represent the list of neighbor nodes. 

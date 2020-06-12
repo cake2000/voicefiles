@@ -1,0 +1,1 @@
+choice 'A' should use curly brackets for function body, not parentheses "( )".

@@ -1,0 +1,1 @@
+After the repeat loop, if 'found' is false, use the top boundary to rebound the ball.

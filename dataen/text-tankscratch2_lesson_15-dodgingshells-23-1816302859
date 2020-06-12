@@ -1,0 +1,1 @@
+Instead, you should use a new variable to keep track of the first live shell's index,

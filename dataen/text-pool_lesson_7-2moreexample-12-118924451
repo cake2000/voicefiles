@@ -1,0 +1,1 @@
+We only need odd numbers less than 10, so the test should be "i < 10".

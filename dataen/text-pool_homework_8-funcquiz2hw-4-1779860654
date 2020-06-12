@@ -1,0 +1,1 @@
+choice 'A' should use a comma to separate the arguments, not a semicolon.
