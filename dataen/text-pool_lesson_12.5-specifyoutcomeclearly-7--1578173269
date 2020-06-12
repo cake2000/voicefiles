@@ -1,0 +1,1 @@
+First, call "await WaitForAllBallStop()" to wait until all balls have stopped.
