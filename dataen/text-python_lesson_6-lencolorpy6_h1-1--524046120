@@ -1,0 +1,1 @@
+You should use "range(len(list))" in the for loop to do the repeating.

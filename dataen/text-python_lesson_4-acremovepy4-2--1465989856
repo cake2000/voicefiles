@@ -1,0 +1,1 @@
+to delete the item "10" we can use "numbers.remove(10)"
