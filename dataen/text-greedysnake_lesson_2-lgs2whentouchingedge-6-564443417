@@ -1,0 +1,1 @@
+One way to do the job is adding an "if" block inside the existing "forever" block.
