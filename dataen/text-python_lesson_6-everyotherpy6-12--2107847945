@@ -1,0 +1,1 @@
+To create a list containing these 3 index values, we can use "range(0, 6, 2)".
