@@ -1,0 +1,1 @@
+so we can use "len(m[0])" to get the number of items in the first row, which is 3.
