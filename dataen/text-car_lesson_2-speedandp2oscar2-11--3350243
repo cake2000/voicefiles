@@ -1,0 +1,1 @@
+We also set "steer right" to 1 whenever "car turn angle" is less than 30.

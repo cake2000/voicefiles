@@ -1,0 +1,1 @@
+To allow our AI player to stop the runner, we can use a new message "stop".

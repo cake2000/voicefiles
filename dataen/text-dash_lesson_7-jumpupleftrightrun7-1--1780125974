@@ -1,0 +1,1 @@
+If the runner is already running left or right, then it should be jumping in that direction as well.

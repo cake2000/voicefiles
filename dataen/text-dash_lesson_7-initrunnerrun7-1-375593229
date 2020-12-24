@@ -1,0 +1,1 @@
+For some cleanup, we need to make sure the 2 new variables as initialized to 0 properly.
