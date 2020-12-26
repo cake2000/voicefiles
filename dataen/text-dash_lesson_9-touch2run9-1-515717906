@@ -1,0 +1,1 @@
+For the bananas sprite, we can check for the touch event in the "Update" message handler.
