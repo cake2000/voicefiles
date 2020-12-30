@@ -1,0 +1,1 @@
+Note that all methods have their first parameter being self, and the constructor is a special type of method.
