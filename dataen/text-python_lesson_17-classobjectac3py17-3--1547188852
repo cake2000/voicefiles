@@ -1,0 +1,1 @@
+Variable boxType should be a string with a value of either "M" or "E", representing a mine or an empty box.
