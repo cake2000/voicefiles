@@ -1,0 +1,1 @@
+Bitmaps look pixelated when scaled or rotated because they are composed of little squares.
