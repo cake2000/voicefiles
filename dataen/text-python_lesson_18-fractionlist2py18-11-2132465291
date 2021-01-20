@@ -1,0 +1,1 @@
+Note that because the function "range" doesn't count the stop number, you would need to increment the stop number by 1 to include the index you want.

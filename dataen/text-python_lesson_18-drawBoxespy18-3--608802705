@@ -1,0 +1,1 @@
+You will also need to implement a check so the index will never go beyond 0~9 to prevent index out of range error.

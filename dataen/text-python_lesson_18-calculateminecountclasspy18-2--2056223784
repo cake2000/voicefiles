@@ -1,0 +1,1 @@
+When the constructor is called, loop through the 2D list "gameMap" to calculate the number of mines around this box and store the result in the "minecount" attribute.
