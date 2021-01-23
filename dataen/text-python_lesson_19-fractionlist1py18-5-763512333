@@ -1,0 +1,1 @@
+However, to calculate the number of mines around a specific box, you only need to know the "part" of the map around that box.

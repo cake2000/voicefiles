@@ -1,0 +1,1 @@
+So if the mentioned variables go beyond the range of the 2D list, they are changed to the closest value among the indices of the 2D list.
