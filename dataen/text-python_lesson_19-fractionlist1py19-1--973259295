@@ -1,0 +1,1 @@
+When we draw the game map, we use a nested forloop to go through the entire 2D list.
