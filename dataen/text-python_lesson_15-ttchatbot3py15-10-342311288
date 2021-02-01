@@ -1,0 +1,1 @@
+If the numeric word is greater, subtract the integer by 12, convert it back to a string and add " PM" after it.

@@ -1,0 +1,1 @@
+Split the inputText by whitespace, then loop through every word to find the matching class, if any.

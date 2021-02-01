@@ -1,0 +1,1 @@
+if there is, delete the key-value pair using "del" function. Otherwise return "You don't have a class at [insert given time]" message.
