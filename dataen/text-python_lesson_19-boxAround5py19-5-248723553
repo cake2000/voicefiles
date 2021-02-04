@@ -1,0 +1,1 @@
+our "start/stop-Row/Column" variables will get some weird results, such as negative 1 and 11.
