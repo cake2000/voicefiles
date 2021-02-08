@@ -1,0 +1,1 @@
+Each time this function is called, it prints the "phrase" and decrease the "times" to repeat by 1.

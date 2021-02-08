@@ -1,0 +1,1 @@
+To begin with, update the "uncover" method such that it keeps uncovering the box on the right until it uncovers a box that has a mine around it.

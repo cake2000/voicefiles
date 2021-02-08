@@ -1,0 +1,1 @@
+Next, loop through the key list to fetch all the corresponding values in the "timetable" dictionary, which are the classes, and form the string you want.

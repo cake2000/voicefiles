@@ -1,0 +1,1 @@
+And when the "times" equals 0, it stops the recursion by ending the function early, before printing anything or calling itself again.

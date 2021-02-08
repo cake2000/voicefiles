@@ -1,0 +1,1 @@
+In class "Box", add a new attribute called "covered", which is set to True in the constructor.

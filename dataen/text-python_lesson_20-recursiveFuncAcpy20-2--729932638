@@ -1,0 +1,1 @@
+In Minesweeper, we should only be able to uncover boxes around a specific box if that box has no mines around it.

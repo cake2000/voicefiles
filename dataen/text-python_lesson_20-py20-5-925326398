@@ -1,0 +1,1 @@
+Then, loop through every box in the gameMap and call the "uncover" method on each box.

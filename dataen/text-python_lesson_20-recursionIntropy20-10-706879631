@@ -1,0 +1,1 @@
+If we encounter no mines, we will end up repeating the same loop that uncovers boxes in a 3 by 3 region many many times.

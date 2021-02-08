@@ -1,0 +1,1 @@
+Next, update the "draw" method such that it draws a covered box when the attribute "covered" is true regardless of the boxType.

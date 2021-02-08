@@ -1,0 +1,1 @@
+You don't need to know what it means exactly, but keep it in mind if you receive this error, you are likely having an unending loop or recursive function in your program.

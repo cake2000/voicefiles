@@ -1,0 +1,1 @@
+Then, similar to calculating the number of mines around a box, loop through all the boxes in the 3 by 3 region around that box, excluding the selected box itself,

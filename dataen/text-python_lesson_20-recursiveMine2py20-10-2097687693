@@ -1,0 +1,1 @@
+Additionally, before uncovering a box, you need to check if it has already been uncovered by verifying the attribute "covered".
