@@ -1,0 +1,1 @@
+Finally, upgrade the "uncover" method to keep uncovering boxes around another box until a mine has been found around it.

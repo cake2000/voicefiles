@@ -1,0 +1,1 @@
+loop through all the boxes in the 3 by 3 region around that box while excluding that box itself,

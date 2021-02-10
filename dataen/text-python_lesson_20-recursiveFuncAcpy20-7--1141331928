@@ -1,0 +1,1 @@
+Only when the attribute "minecount" is equal to 0, which means the box has no mines around it, we carry out the loop.

@@ -1,0 +1,1 @@
+loop through all the boxes in the 3 by 3 region around that box and call the "uncover" method to uncover those boxes.

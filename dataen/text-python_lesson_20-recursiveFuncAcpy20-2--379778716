@@ -1,0 +1,1 @@
+In Minesweeper, we should only uncover the surrounding boxes if selected box has no mines around it.
