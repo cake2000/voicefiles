@@ -1,0 +1,1 @@
+Note that in the "uncover" method, because the variable coveredBoxCount was defined too far away from the class.

@@ -1,0 +1,1 @@
+"Box" class needs to include a new attribute called "flagged" that is set to False by default.

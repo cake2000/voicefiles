@@ -1,0 +1,1 @@
+Add a new attribute called "exploded" in the constructor that is set to False by default.
