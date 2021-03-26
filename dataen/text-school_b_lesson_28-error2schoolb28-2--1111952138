@@ -1,0 +1,1 @@
+the 2nd "find index" block no longer returns 1 but 0 instead.
