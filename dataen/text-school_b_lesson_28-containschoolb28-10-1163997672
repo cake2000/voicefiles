@@ -1,0 +1,1 @@
+For example, since the list "name" here does not hold an element called "Cat", the block returns false.
