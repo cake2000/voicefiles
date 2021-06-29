@@ -1,0 +1,1 @@
+We need to set its Z-direction size to be smaller than 100, so it does not cover the robot face.
