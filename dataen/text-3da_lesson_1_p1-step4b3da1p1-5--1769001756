@@ -1,0 +1,1 @@
+When 2 objects have overlapping faces, the object with a smaller z-offset will win.
