@@ -1,0 +1,1 @@
+Note that the message broadcast ensures we initialize the scene before adding the box.
