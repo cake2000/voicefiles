@@ -1,0 +1,1 @@
+only locate and point towards the next waste when the "wastesID" list has more than 0 items.

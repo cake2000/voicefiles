@@ -1,0 +1,1 @@
+It’s because the “point towards” block can only point at the original sprite, not a clone.
