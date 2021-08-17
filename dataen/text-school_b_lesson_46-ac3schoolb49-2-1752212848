@@ -1,0 +1,1 @@
+While the sprite's "status" is "callTaxi", keep checking whether the sprite is touching a taxi's color,

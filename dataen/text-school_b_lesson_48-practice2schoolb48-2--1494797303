@@ -1,0 +1,1 @@
+When a sprite receives this message, all graphic effects will be cleared first.
