@@ -1,0 +1,1 @@
+otherwise the rising speed will be reset to 0 in the key handler's forever loop.
