@@ -1,0 +1,1 @@
+It moves 1 step at a time, and its turning is controlled by a custom block called "changeDirection".
