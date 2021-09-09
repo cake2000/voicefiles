@@ -1,0 +1,1 @@
+First, in the "car" sprite, you need to broadcast a new message "add obstacles",
