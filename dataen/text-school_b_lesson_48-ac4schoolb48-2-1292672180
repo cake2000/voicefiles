@@ -1,0 +1,1 @@
+We handle this by checking whether the ID of the "selected card" and this card are equal.
